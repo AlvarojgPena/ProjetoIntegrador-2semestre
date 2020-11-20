@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605817130 source:d:\backup\paulo\fatec - ads\2o sem\projeto\amplocalculatorreborn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+
+1605880583 source:c:\users\alvar\desktop\amplocalculatorreborn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+
